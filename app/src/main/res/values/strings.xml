@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Ideo</string>
+    <string name="usuario">Usuario:</string>
+    <string name="contraseña">Contraseña:</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="nuevo_usuario">¿Eres nuevo, Crea tu cuenta!?</string>
+    <string name="olvido_contraseña">¿Se te ha olvidado la contraseña?</string>
+    <string name="channel_name">a</string>
+    <string name="channel_description">aa</string>
 </resources>
