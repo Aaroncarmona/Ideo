@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "307020340919",
+    "firebase_url": "https://ideeo-d5438.firebaseio.com",
+    "project_id": "ideeo-d5438",
+    "storage_bucket": "ideeo-d5438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307020340919:android:cd2609b4d2910520",
+        "android_client_info": {
+          "package_name": "ideo.com.ideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307020340919-rsjb8f80mhj12bcir4bc6svkhf6f8v4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ideo.com.ideo",
+            "certificate_hash": "c364aeb7ee388764a1b56b8671575cb31c26a45e"
+          }
+        },
+        {
+          "client_id": "307020340919-l7d17lmqvprkvvlcrmvg47i57bmju7j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgPlen9Qj-Qo0ps6iy8gK8Ove5TEwvryQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307020340919-l7d17lmqvprkvvlcrmvg47i57bmju7j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
