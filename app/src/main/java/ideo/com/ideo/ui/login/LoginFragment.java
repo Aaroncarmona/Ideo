@@ -1,13 +1,10 @@
 package ideo.com.ideo.ui.login;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.design.widget.TextInputEditText;
-import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -22,7 +19,6 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 import ideo.com.ideo.R;
-import ideo.com.ideo.ui.principal.PrincipalActivity;
 import ideo.com.ideo.util.Util;
 
 public class LoginFragment extends Fragment implements View.OnClickListener {

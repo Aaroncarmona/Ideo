@@ -1,32 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group>
-        <item android:id="@+id/nav_item_one"
+        <item
+            android:id="@+id/nav_item_one"
             android:icon="@drawable/logo_ideeo_icon"
-            android:title="Item 1" />
-        <item android:id="@+id/nav_item_two"
+            android:title="@string/principal"
+            android:checkable="true"
+            android:checked="true"
+            />
+        <item
+            android:id="@+id/nav_item_two"
             android:icon="@drawable/logo_ideeo_icon"
-            android:title="Item 2" />
-        <item android:id="@+id/nav_item_three"
+            android:title="Item 2"
+            android:checkable="true"
+            />
+        <item
+            android:id="@+id/nav_item_three"
             android:icon="@drawable/logo_ideeo_icon"
-            android:title="Item 3" />
+            android:title="Item 3"
+            android:checkable="true"
+            />
     </group>
 
     <group android:id="@+id/group_menu">
         <item android:id="@+id/nav_item_four"
-            android:title="Item 4" />
+            android:title="Item 4"
+            android:checkable="true"/>
         <item android:id="@+id/nav_item_five"
-            android:title="Item 5" />
+            android:title="Item 5"
+            android:checkable="true"/>
     </group>
 
     <item android:title="Title 1">
         <menu>
             <item android:id="@+id/nav_item_six"
                 android:icon="@drawable/logo_ideeo_icon"
-                android:title="Item 6" />
+                android:title="Item 6"
+                android:checkable="true"/>
             <item android:id="@+id/nav_item_seven"
                 android:icon="@drawable/logo_ideeo_icon"
-                android:title="Item 7" />
+                android:title="Item 7"
+                android:checkable="true"/>
         </menu>
     </item>
 </menu>
