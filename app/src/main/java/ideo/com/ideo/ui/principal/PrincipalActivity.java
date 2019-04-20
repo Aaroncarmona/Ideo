@@ -19,7 +19,6 @@ import com.google.firebase.auth.FirebaseUser;
 
 import ideo.com.ideo.R;
 import ideo.com.ideo.ui.login.ForgottenPassFragment;
-import ideo.com.ideo.ui.login.LoginFragment;
 
 public class PrincipalActivity extends AppCompatActivity implements View.OnClickListener, NavigationView.OnNavigationItemSelectedListener {
 
